@@ -1,10 +1,6 @@
 ## Sobre mim 👋
 Especialista em segurança cibernética com foco em exploração e defesa digital. Áreas de expertise incluem:
-OSINT e password spraying;
-Infraestrutura em nuvem e microsserviços;
-Conteinerização e networking avançado;
-Web scraping e mineração de dados;
-Gestão e automação de atendemetno ao cliete e SEO.
+OSINT e password spraying, infraestrutura em nuvem e microsserviços, conteinerização, web scraping e mineração de dados, gestão e automação de atendemetno ao cliete e SEO.
 
 Experiência em pesquisa de segurança cibernética de ponta, com ênfase em metodologias de coleta e análise de dados. Proficiência em administração de sistemas e redes, desenvolvimento de aplicações resilientes e implementação de estratégias de segurança robustas.
 
