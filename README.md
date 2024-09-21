@@ -1,17 +1,17 @@
 ## Sobre mim 👋
+Especialista em segurança cibernética com foco em exploração e defesa digital. Áreas de expertise incluem:
+OSINT e password spraying;
+Infraestrutura em nuvem e microsserviços;
+Conteinerização e networking avançado;
+Web scraping e mineração de dados;
+Gestão e automação de atendemetno ao cliete e SEO.
 
+Experiência em pesquisa de segurança cibernética de ponta, com ênfase em metodologias de coleta e análise de dados. Proficiência em administração de sistemas e redes, desenvolvimento de aplicações resilientes e implementação de estratégias de segurança robustas.
 
-🔐 Pesquisador de segurança cibernética profundamente imerso nos campos da exploração e defesa digital. Minha paixão atual está em dominar a arte de OSINT e password spraying, enquanto também me aprofundo em cloud, droplets, microsserviços, conteinerização e Networking.
+Aberto a colaborações em projetos inovadores de cibersegurança e engenharia de sistemas. Comprometido com a aprendizagem contínua e compartilhamento de conhecimentos no campo da segurança da informação.
 
-🌍 Estou sempre aberto a colaborar em Pesquisas de Segurança Cibernética de ponta, com foco especial rapagem e mineração de dados. Atualmente, também estudado automação de atendimento ao cliente, SEO, gestão de tráfego para ampliar o alcance dos negócios.
+Currículo disponível mediante solicitação. Publicações técnicas em desenvolvimento.
 
-💬 Sinta-se à vontade para me envolver em discussões que vão desde estratégias de Segurança Cibernética até as nuances da Administração de Sistemas e Redes. Seja protegendo sistemas ou criando aplicativos robustos usando microsserviços, conteinerização, estou aqui para aprender e compartilhar insights e explorar novas ideias.
-
-📄 Currículo : Veja meu currículo
-
-📝 (EM BREVE) Curioso sobre minhas últimas descobertas? Aguarde os artigos no site, onde depositarei experiencias e conceitos de segurança com insights diversos.
-
-Habilidades, Tecnologias e Ferramentas
 
 <br clear="both">
 
