@@ -1,4 +1,5 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Nyckosec&textBg=false&fontColor=ff0000&animation=blinking&reversal=false&section=header&fontSize=50"/>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Seja+bem+vindo;Use+com+moderação;Welcome,+use+in+moderation)](https://git.io/typing-svg)
 
@@ -54,4 +55,4 @@
 
 <img src="https://raw.githubusercontent.com/nyckosec/nyckosec/output/snake.svg" alt="Snake animation" />
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&textBg=false&reversal=false&section=footer"/>
